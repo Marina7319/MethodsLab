@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.31911.196
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1.SignOfIntegerNumbers", "1.SignOfIntegerNumbers\1.SignOfIntegerNumbers.csproj", "{AA2300D6-4065-41FC-8E19-3EEBFDFDB114}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Labs", "Demos\Labs.csproj", "{C0DF480A-4EDC-4354-BFA3-EA46E2CCE635}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2.Grades", "2.Grades\2.Grades.csproj", "{524C35BE-CD24-4BC2-90A9-2DFFE69FF184}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4.PrintingTriangle", "4.PrintingTriangle\4.PrintingTriangle.csproj", "{A5D1891D-0063-4B07-A755-5BFF76BA9D33}"
@@ -37,10 +35,6 @@ Global
 		{AA2300D6-4065-41FC-8E19-3EEBFDFDB114}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA2300D6-4065-41FC-8E19-3EEBFDFDB114}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA2300D6-4065-41FC-8E19-3EEBFDFDB114}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0DF480A-4EDC-4354-BFA3-EA46E2CCE635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0DF480A-4EDC-4354-BFA3-EA46E2CCE635}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0DF480A-4EDC-4354-BFA3-EA46E2CCE635}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0DF480A-4EDC-4354-BFA3-EA46E2CCE635}.Release|Any CPU.Build.0 = Release|Any CPU
 		{524C35BE-CD24-4BC2-90A9-2DFFE69FF184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{524C35BE-CD24-4BC2-90A9-2DFFE69FF184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{524C35BE-CD24-4BC2-90A9-2DFFE69FF184}.Release|Any CPU.ActiveCfg = Release|Any CPU
